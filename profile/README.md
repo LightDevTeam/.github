@@ -1,4 +1,4 @@
-<img src="./profile/logo.png" style="width:200px">
+<img src="logo.png" style="width:200px">
 # LT 轻雨科技
 
 > Offical Website 官网: https://light.gs
