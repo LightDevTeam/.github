@@ -14,6 +14,6 @@ The websites that we managed 我们管理的旗下站点:
 Representative Projects 代表项目:
 1. JsonDB - aztice@aztice
 
-> 如果您想要加入我们，请联系Email  light-team@foxmail.com 或者 QQ 465723320。
-> If you have interest to join LT,please contact us by email light-team@foxmail.com or QQ 465723320
+> 如果您想要加入我们，请联系Email  light-team@foxmail.com 或者 QQ 465723320。<br/>
+If you have interest to join LT,please contact us by email light-team@foxmail.com or QQ 465723320
 
