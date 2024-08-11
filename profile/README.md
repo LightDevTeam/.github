@@ -1,3 +1,4 @@
+<img src="logo.png">
 # LT 轻雨科技
 
 > Offical Website 官网: https://light.gs
